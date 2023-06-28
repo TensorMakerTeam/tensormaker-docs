@@ -1,3 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="275" height="50" viewBox="0 0 275 50">
-  <rect id="Rectangle_135" data-name="Rectangle 135" width="275" height="50" rx="5" fill="#212936"/>
+  <g id="Group_84" data-name="Group 84" transform="translate(-14 -554)">
+    <rect id="Rectangle_135" data-name="Rectangle 135" width="275" height="50" rx="5" transform="translate(14 554)" fill="#212936"/>
+    <text id="TensorMaker" transform="translate(68 592)" fill="#fff" font-size="35" font-family="'\.AppleSystemUIFont'" font-weight="700"><tspan x="0" y="0">TensorMaker</tspan></text>
+    <path id="Icon_material-format-shapes" data-name="Icon material-format-shapes" d="M34.5,10.5v-9h-9v3h-15v-3h-9v9h3v15h-3v9h9v-3h15v3h9v-9h-3v-15Zm-30-6h3v3h-3Zm3,27h-3v-3h3Zm18-3h-15v-3h-3v-15h3v-3h15v3h3v15h-3Zm6,3h-3v-3h3Zm-3-24v-3h3v3ZM19.532,23.645H16.888V15.421h-3.6V13.145h9.789v2.275H19.532Z" transform="translate(22.5 560.5)" fill="#fff"/>
+  </g>
 </svg>
